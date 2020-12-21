@@ -1,0 +1,10 @@
+E:\C#\lab.4\Pro1\Pro1\obj\Debug\Pro1.csprojAssemblyReference.cache
+E:\C#\lab.4\Pro1\Pro1\obj\Debug\Pro1.Form1.resources
+E:\C#\lab.4\Pro1\Pro1\obj\Debug\Pro1.Properties.Resources.resources
+E:\C#\lab.4\Pro1\Pro1\obj\Debug\Pro1.csproj.GenerateResource.cache
+E:\C#\lab.4\Pro1\Pro1\obj\Debug\Pro1.csproj.CoreCompileInputs.cache
+E:\C#\lab.4\Pro1\Pro1\bin\Debug\Pro1.exe.config
+E:\C#\lab.4\Pro1\Pro1\bin\Debug\Pro1.exe
+E:\C#\lab.4\Pro1\Pro1\bin\Debug\Pro1.pdb
+E:\C#\lab.4\Pro1\Pro1\obj\Debug\Pro1.exe
+E:\C#\lab.4\Pro1\Pro1\obj\Debug\Pro1.pdb
